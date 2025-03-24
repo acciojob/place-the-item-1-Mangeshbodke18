@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+body{
+background-color:grey;
+}
+
+.item{
+height:100px;
+width:100px;
+background-color:green;
+
+
+}
+
+
+.holder{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+}
